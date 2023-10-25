@@ -15,9 +15,5 @@ public class Main {
         String tarea2 = sc.next();
         tareas.add(tarea2);
 
-
-        System.out.println("Agregar tercera tarea");
-        String tarea3 = sc.next();
-        tareas.add(tarea3);
     }
 }
